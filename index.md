@@ -24,7 +24,7 @@ I received a BSc in Applied Physics and Mathematics from [Moscow Institute of Ph
 
 - A. Logins, S. Grudinin, "Protein structure rigidity simulation based on statistical analysis of structural databases and optimization problems", In *Proceedings of the 59th All-Russian MIPT Scientific Conference*, Moscow, Russia, 2014. Best paper award in the "Research on Nanostructures" section.
 
-## Thesises and Dissertation
+## Theses and Dissertation
 
 - A. Logins. "[Resource Allocation in Networks](resource_allocation_in_networks_logins_phd.pdf)", PhD Dissertation, Aarhus University, 2020. [PDF](/assets/pdf/resource_allocation_in_networks_logins_phd.pdf)
 
