@@ -4,11 +4,11 @@ main:
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
     url: /
-  # - title: "Blog"
-  #   url: /blog/
-  - title: "Adventures"
-    url: https://blog.alogins.net/
+  - title: "Publications"
+    url: /#publications
+  - title: "Resume"
+    url: /assets/pdf/cv.pdf
   - title: "Contact Me"
-    url: /contact/
+    url: mailto:alvis.logins@gmail.com
   # - title: "Sitemap"
   #   url: /sitemap/
