@@ -12,6 +12,8 @@ I received a&nbsp;PhD in Computer Science from [Aarhus University](https://inter
 
 ## Refereed Conferences and Journal
 
+- A. Logins, J. He, K. Paramonov, "[Block-Structured Deep Learning-Based OFDM Channel Equalization](/assets/pdf/tkde_robust.pdf)", in ***IEEE Communications Letters***, [&nbsp;[doi](https://doi.org/10.1109/LCOMM.2021.3133018)&nbsp;]
+
 - A. Logins, Y. Li, P. Karras, "[On the Robustness of Diffusion in a Network under Node Attacks](/assets/pdf/tkde_robust.pdf)", in ***IEEE Transactions on Knowledge and Data Engineering***, [&nbsp;[doi](https://doi.org/10.1109/TKDE.2021.3071081), [pdf](/assets/pdf/tkde_robust.pdf), [code](https://github.com/allogn/robustness)&nbsp;]
 
 - A. Khurana, A. Logins, P. Karras, "[Selecting Influential Features by a Learnable Content-Aware Linear Threshold Model](/assets/pdf/ca_ltm.pdf)", in *Proceedings of the 29th ACM Conference on Information and Knowledge Management* ([CIKM 2020](https://cikm2020.org)), October 2020, pp. 635–644. [&nbsp;[doi](https://doi.org/10.1145/3340531.3411886), [pdf](/assets/pdf/ca_ltm.pdf), [code](https://github.com/AnshKhurana/CAIM)&nbsp;]
